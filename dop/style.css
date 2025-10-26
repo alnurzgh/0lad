@@ -485,7 +485,7 @@ body {
 .video-card {
     height: 260px;
     border-radius: 32px;
-    background: linear-gradient(0deg, #0000004D, #0000004d), url(/dop/img/imgi_2_3138917b7f7496074d4701d6b35e1ccb.jpg);
+    background: linear-gradient(0deg, #0000004D, #0000004d), url(dop/img/imgi_2_3138917b7f7496074d4701d6b35e1ccb.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     display: grid;
